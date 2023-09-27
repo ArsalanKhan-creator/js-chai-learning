@@ -1,4 +1,4 @@
-let score = "33"
+let score = undefined
 
 console.log(typeof score);
 // method type print
@@ -6,3 +6,4 @@ console.log(typeof (score));
 
 let valueInNumber = Number(score);
 console.log(typeof valueInNumber);
+console.log(valueInNumber);
